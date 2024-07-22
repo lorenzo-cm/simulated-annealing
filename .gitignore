@@ -1,4 +1,4 @@
 __pycache__
-*.mp4
-*.png
+
+videos_ignore/
 graphs/
